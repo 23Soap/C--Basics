@@ -1,7 +1,0 @@
-C:\Users\19yus\OneDrive\Masaüstü\C# GB\BRO CODE\1) C# Output\Output\Output\bin\Debug\Output.exe.config
-C:\Users\19yus\OneDrive\Masaüstü\C# GB\BRO CODE\1) C# Output\Output\Output\bin\Debug\Output.exe
-C:\Users\19yus\OneDrive\Masaüstü\C# GB\BRO CODE\1) C# Output\Output\Output\bin\Debug\Output.pdb
-C:\Users\19yus\OneDrive\Masaüstü\C# GB\BRO CODE\1) C# Output\Output\Output\obj\Debug\Output.csproj.AssemblyReference.cache
-C:\Users\19yus\OneDrive\Masaüstü\C# GB\BRO CODE\1) C# Output\Output\Output\obj\Debug\Output.csproj.CoreCompileInputs.cache
-C:\Users\19yus\OneDrive\Masaüstü\C# GB\BRO CODE\1) C# Output\Output\Output\obj\Debug\Output.exe
-C:\Users\19yus\OneDrive\Masaüstü\C# GB\BRO CODE\1) C# Output\Output\Output\obj\Debug\Output.pdb
