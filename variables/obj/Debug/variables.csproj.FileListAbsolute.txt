@@ -1,0 +1,7 @@
+C:\Users\19yus\OneDrive\Masaüstü\C# GB\BRO CODE\2) C# Variables\variables\variables\bin\Debug\variables.exe.config
+C:\Users\19yus\OneDrive\Masaüstü\C# GB\BRO CODE\2) C# Variables\variables\variables\bin\Debug\variables.exe
+C:\Users\19yus\OneDrive\Masaüstü\C# GB\BRO CODE\2) C# Variables\variables\variables\bin\Debug\variables.pdb
+C:\Users\19yus\OneDrive\Masaüstü\C# GB\BRO CODE\2) C# Variables\variables\variables\obj\Debug\variables.csproj.AssemblyReference.cache
+C:\Users\19yus\OneDrive\Masaüstü\C# GB\BRO CODE\2) C# Variables\variables\variables\obj\Debug\variables.csproj.CoreCompileInputs.cache
+C:\Users\19yus\OneDrive\Masaüstü\C# GB\BRO CODE\2) C# Variables\variables\variables\obj\Debug\variables.exe
+C:\Users\19yus\OneDrive\Masaüstü\C# GB\BRO CODE\2) C# Variables\variables\variables\obj\Debug\variables.pdb
